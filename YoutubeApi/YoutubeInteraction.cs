@@ -109,6 +109,7 @@ class YoutubeInteraction<T>
         return (int) ((ulong?) daysBetween / channel.Statistics.VideoCount)!;
     }
     
+    // подписчики
     async Task<Channel> GetChannelInfo(string channelIdOrName)
     {
         string parts = "snippet, statistics";
