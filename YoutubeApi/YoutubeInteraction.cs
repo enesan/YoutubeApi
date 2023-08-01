@@ -19,11 +19,8 @@ class YoutubeInteraction<T>
    public async Task<string> GetChannelVideos(string channelIdOrName, int maxResults = 50, string parts = "snippet")
     {
         VideoService videoService = new VideoService(_youTubeService, _apiKey);
-        int meanViews = 0;
-        int meanComments = 0;
-        int meanLikes = 0;
-        int likeDislike = 0;
-        int commentsViews = 0;
+        int meanViews = 0; int meanComments = 0; int meanLikes = 0;
+        int likeDislike = 0; int commentsViews = 0; int meanFrequency = 0;
 
         Channel channel = await GetChannelInfo(channelIdOrName);
         
@@ -33,7 +30,7 @@ class YoutubeInteraction<T>
         request.MaxResults = maxResults;
         request.Order = SearchResource.ListRequest.OrderEnum.Date;
 
-        request.PublishedBefore = await GetLatestOrEarliestVideo(request, 0);
+        request.PublishedBefore = await GetLatestOrEarliestVideoDate(request, 0);
 
         int count = 0;
         
@@ -54,34 +51,40 @@ class YoutubeInteraction<T>
         
                 if (response.NextPageToken == null)
                 {
-                    var earliestVideo = await GetLatestOrEarliestVideo(request, 1);
+                    var earliestVideo = await GetLatestOrEarliestVideoDate(request, 1);
                     request.PublishedBefore = earliestVideo;
                 }
 
-                if (count % 100 == 0)
+                if (count % 50 == 0)
                 {
-                    await videoService.GetVideosInfoAsync(sb.ToString());
+                    
+                    await videoService.GetVideosInfoAsync(sb.Remove(sb.Length-1,1).ToString());
+                    sb.Clear();
                 }
                 request.PageToken = response.NextPageToken;
 
             } while (response.NextPageToken != null);
             
+            sb.Clear();
+            
             
             meanViews += (int)videoService.GetMeanViews();
             meanComments += (int) videoService.GetMeanComments();
             meanLikes += (int) videoService.GetMeanLikes();
-            likeDislike += (int) videoService.GetLikeDislikeRel();
+        //    likeDislike += (int) videoService.GetLikeDislikeRel();
             commentsViews += (int) videoService.GetCommentsViewsRel();
-            
+            commentsViews += (int) videoService.GetMeanVideoProdFrequency();
 
+            videoService.ClearStats();
             
-            sb.Clear();
+            // временно, пока не решится вопрос с подтягиванием более 500 видео
+            if(count >= 500) break;
         }
 
         return $@"Среднее количество просмотров: {meanViews}
                   Среднее количество комментов: {meanComments}
                   Среднее количество лайков: {meanLikes} 
-                  Лайки/дизлайки: {likeDislike}
+                  Средняя частота выпуска видео: {meanFrequency}
                   Комменты/просмотры: {commentsViews}";;
     }
     
@@ -93,7 +96,7 @@ class YoutubeInteraction<T>
    /// 0 - get the first video
    /// 1 or any - get the last video</param>
    /// <returns></returns>
-    async Task<DateTime> GetLatestOrEarliestVideo(SearchResource.ListRequest request, int regime)
+    async Task<DateTime> GetLatestOrEarliestVideoDate(SearchResource.ListRequest request, int regime)
     {
         return regime == 0 ? DateTime.Parse((await request.ExecuteAsync()).Items[0].Snippet.PublishedAtRaw)
                 : DateTime.Parse((await request.ExecuteAsync()).Items[^1].Snippet.PublishedAtRaw);
