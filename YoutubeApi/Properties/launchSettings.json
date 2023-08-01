@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  
+  "profiles": {
+    "YoutubeApi": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:8989",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

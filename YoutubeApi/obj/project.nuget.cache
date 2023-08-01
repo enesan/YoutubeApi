@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZ/xTLOZdMtsj9migSGltZlTxwZ+c6/Sbn2+R2OP3ROreTUePchb1sWDrLzGpPKYedFFGKAVC0mBzzw1wzx5vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladr\\RiderProjects\\YoutubeApi\\YoutubeApi\\YoutubeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladr\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\google.apis.youtube.v3\\1.61.0.3113\\google.apis.youtube.v3.1.61.0.3113.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\google.apis.youtubeanalytics.v2\\1.61.0.3106\\google.apis.youtubeanalytics.v2.1.61.0.3106.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\google.apis.youtubereporting.v1\\1.61.0.3106\\google.apis.youtubereporting.v1.1.61.0.3106.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

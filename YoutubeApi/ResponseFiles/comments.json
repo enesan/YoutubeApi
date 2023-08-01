@@ -1,0 +1,718 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "XeofWyGhJdA2Etez8_ksjwXXBqM",
+  "nextPageToken": "QURTSl9pMkM2UEVVRTFWLTh1RkVFWjNkQnJ5dHIySmh0c0xQZmxxM1o1YWZFLWN6Vy1VUk1rWTEzZm9sT0FHemFzM0dwMnUyWklFYVMtSmxSNGtacThvNkoydzFYRjA3bHNHNUlnMDVWekhxcnl3Q1VONEswM0VReEg2TlpRcEEtQzNjT2xjb1prQm50NDNJZmJrY3J4SFAzbGNaYlVsWFZaWXhwYlNsMERiMTItSGRQV3VudzBYMnYydDk0djBjRUhuNUJTdmwtblEwY09r",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nkTO898Ykt9RMNvtsUAXqsiNc0s",
+      "id": "Ugyu7_wLBQkB36S_K7N4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "qp0HIF3SfI4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pS04wIE-7io7CT_e146ssNgOE9I",
+          "id": "Ugyu7_wLBQkB36S_K7N4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "qp0HIF3SfI4",
+            "textDisplay": "SUBIDOOOO PROOOO\u003cbr\u003eAUHAUHAUHAUUU",
+            "textOriginal": "SUBIDOOOO PROOOO\nAUHAUHAUHAUUU",
+            "authorDisplayName": "Leonardo Da Silva Teixeira",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTOPHM5MvE6L7ZkQdfPb-jEXjuhq41BwGYvVHwP3A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBChg04nRI-MIfetZ6eCclw",
+            "authorChannelId": {
+              "value": "UCBChg04nRI-MIfetZ6eCclw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T14:52:27Z",
+            "updatedAt": "2023-07-26T14:52:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aBmt5sGCseLmJXNKHowyQfc-Luo",
+      "id": "UgzH-xmHtXbjtxeQ2eB4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "BHY0FxzoKZE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oB2iODOuoHifndJN58ugtBxWSSg",
+          "id": "UgzH-xmHtXbjtxeQ2eB4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "BHY0FxzoKZE",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=BHY0FxzoKZE&amp;t=0m00s\"\u003e0:00\u003c/a\u003e",
+            "textOriginal": "0:00",
+            "authorDisplayName": "しなもそ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/eTJlCG5uN_grwO2KMHeKRoYd8MLL7gjBRZiOFCyFKw9UqrBVt7HcaW2m2THLo1rijypA6eX1nw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcUvcNhKTUAioboK5CgrteQ",
+            "authorChannelId": {
+              "value": "UCcUvcNhKTUAioboK5CgrteQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T14:48:45Z",
+            "updatedAt": "2023-07-26T14:48:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PmBWyxEIgdcV8WB2TsR4dJVB6-c",
+      "id": "UgyCGP1ne0DWVJAPbBB4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "eIho2S0ZahI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uj3TceuYDJKNYuMc9BkQtQyJABk",
+          "id": "UgyCGP1ne0DWVJAPbBB4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "eIho2S0ZahI",
+            "textDisplay": "🙏🌺👍💯🇮🇳",
+            "textOriginal": "🙏🌺👍💯🇮🇳",
+            "authorDisplayName": "rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/2GRwniG0dgwNpgl0mN6niY-X1ZkJ8H3JeYYf5HR0XnhCK8F7l_ewmksqldp5Fe1gKgHay81TWg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvQb_mSvr1JvZphqUXMjCpA",
+            "authorChannelId": {
+              "value": "UCvQb_mSvr1JvZphqUXMjCpA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T14:30:01Z",
+            "updatedAt": "2023-07-26T14:30:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KJHCSPMrCACE28WbBcryRg607FU",
+      "id": "UgzjwUM9OKfbXzrARh94AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "7zC8-06198g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "v3_yKzu3ISZeCL3fqU2Stc8CUmQ",
+          "id": "UgzjwUM9OKfbXzrARh94AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "7zC8-06198g",
+            "textDisplay": "TikTok just destroying lives, people wasting precious seconds, minutes and hours of their lives on watching stupidity of others.",
+            "textOriginal": "TikTok just destroying lives, people wasting precious seconds, minutes and hours of their lives on watching stupidity of others.",
+            "authorDisplayName": "Mustafa",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSJg4wqOlA-bq5hrtfvQg6LLo9X3qJmA71NvQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChQLiysSBKxK_EEdu9YK3fA",
+            "authorChannelId": {
+              "value": "UChQLiysSBKxK_EEdu9YK3fA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T14:28:28Z",
+            "updatedAt": "2023-07-26T14:28:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5x6ErcrcWHQQ5rBXDht57QjjMFc",
+      "id": "Ugycrsbtzn4ISCEgzrt4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "y4vurv9usYA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SOD4evduqLraaCkzvWt9Gip9xik",
+          "id": "Ugycrsbtzn4ISCEgzrt4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "y4vurv9usYA",
+            "textDisplay": "im a 16 year old with autism. thank you so much for making this.",
+            "textOriginal": "im a 16 year old with autism. thank you so much for making this.",
+            "authorDisplayName": "YT kerfuffles",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRymJO3JEe821G_n8vLXWrZOXx3hc2hSaxCZU-Q0Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmE58_LJW_QP1dkvR5VxRvQ",
+            "authorChannelId": {
+              "value": "UCmE58_LJW_QP1dkvR5VxRvQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T14:17:08Z",
+            "updatedAt": "2023-07-26T14:17:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YB3hGVCyEaIM7eOTUVFNlud0NmM",
+      "id": "UgwLhVHTxWdlRGTYehR4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "7vqnazqmceQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qtAXX2FQsIZD_CJM7DiFNs2fqLI",
+          "id": "UgwLhVHTxWdlRGTYehR4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "7vqnazqmceQ",
+            "textDisplay": "I ask people where they get their confidence often, because I would like an easy answer on how to be confident, and I admire people like that, I didn’t know that people were taking it as an insult…",
+            "textOriginal": "I ask people where they get their confidence often, because I would like an easy answer on how to be confident, and I admire people like that, I didn’t know that people were taking it as an insult…",
+            "authorDisplayName": "Amanda Baker",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQPyIC46vRvUQUMIGs_fCO7nFZFeoR8NHOljFZP=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCX3MG-KneVopVhUrSrU63jQ",
+            "authorChannelId": {
+              "value": "UCX3MG-KneVopVhUrSrU63jQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T14:12:49Z",
+            "updatedAt": "2023-07-26T14:12:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6A1GC_Dmx7UD1xAuRyXiDAOqM2Q",
+      "id": "UgxNAt45_zrtaAJFzz94AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "btQHSDrLlok",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mmIJsa8yyHvYfmcxvrinC89QMBQ",
+          "id": "UgxNAt45_zrtaAJFzz94AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "btQHSDrLlok",
+            "textDisplay": "Every morning after I drink coffee, tea and water",
+            "textOriginal": "Every morning after I drink coffee, tea and water",
+            "authorDisplayName": "Panayiotis Toumazou",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT8dblDiCgKlV0HSuQcUNfFQq7ef707UDHdiX0Xcw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCESVmxyxbO2UL95myAwkrAg",
+            "authorChannelId": {
+              "value": "UCESVmxyxbO2UL95myAwkrAg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:54:38Z",
+            "updatedAt": "2023-07-26T13:54:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QmtUV3JIViJO8-fnOf1FIKnZeqw",
+      "id": "Ugw9j9z35Ubj1vAe5cV4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "BhMKmovNjvc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eX_cFkF6sjhsck9F4COfIoYRWfQ",
+          "id": "Ugw9j9z35Ubj1vAe5cV4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "BhMKmovNjvc",
+            "textDisplay": "Can anyone please helpl me because i&#39;m told that so much of inferencial statistics comes from the rules and proofs of calculus so if you know more than me please give me a reply because all of this realy does interest me. Preparing to study maths full time at uni next year folks",
+            "textOriginal": "Can anyone please helpl me because i'm told that so much of inferencial statistics comes from the rules and proofs of calculus so if you know more than me please give me a reply because all of this realy does interest me. Preparing to study maths full time at uni next year folks",
+            "authorDisplayName": "Andrew Neems",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT0uuNafDxjCorGGr50FpvHNsECYBc1Lmd8EGIFF2s4NrHDoeJXg8se3SYEjsrJ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCG03GTDlDGeCAXE7pk0xLYQ",
+            "authorChannelId": {
+              "value": "UCG03GTDlDGeCAXE7pk0xLYQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:50:06Z",
+            "updatedAt": "2023-07-26T13:50:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ozmhW5sU0BmFpYauSz7OPrK6wiE",
+      "id": "Ugxd3ltlEyPxDfttLeJ4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "xAXUq-Qc8DI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3tFO7kkWg6R64MiPUIp8Vz-gamk",
+          "id": "Ugxd3ltlEyPxDfttLeJ4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "xAXUq-Qc8DI",
+            "textDisplay": "I just want to say they give the Ted talk podium to everyone nowadays :(",
+            "textOriginal": "I just want to say they give the Ted talk podium to everyone nowadays :(",
+            "authorDisplayName": "Ali Hadi Majeed",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT2kfOWBSzSEPy6O5wGFRU6bB0yFRQRKHDQ0MQNjw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmvvulXbY-MvpoLKrrdfQdQ",
+            "authorChannelId": {
+              "value": "UCmvvulXbY-MvpoLKrrdfQdQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:46:22Z",
+            "updatedAt": "2023-07-26T13:46:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7QCTMyGCH3dpyYcpEWnK1_5R9DM",
+      "id": "UgwXAwgde8cMEIZoJBp4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "gMsQO5u7-NQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iOfehuorBrBNayAlL4cmKDs-FE4",
+          "id": "UgwXAwgde8cMEIZoJBp4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "gMsQO5u7-NQ",
+            "textDisplay": "In the end, it is still a device with hardware, camera and some computing power which is connected to internet.\u003cbr\u003e\u003cbr\u003eI would call it a tiny version of smartphones.\u003cbr\u003eBut i would still appreciate the working prototype and the way he addressed some real world problems.\u003cbr\u003e\u003cbr\u003eAs per my lil understanding, AI will make huge impact on medical science, increasing crop production, weather forecast etc.\u003cbr\u003e\u003cbr\u003eHuman communication has already been advanced to higher levels.\u003cbr\u003e\u003cbr\u003eMy biggest concern with AI is that, it will open new possibilities of terror weapons , crimes including cyber crimes, forgery etc .",
+            "textOriginal": "In the end, it is still a device with hardware, camera and some computing power which is connected to internet.\n\nI would call it a tiny version of smartphones.\nBut i would still appreciate the working prototype and the way he addressed some real world problems.\n\nAs per my lil understanding, AI will make huge impact on medical science, increasing crop production, weather forecast etc.\n\nHuman communication has already been advanced to higher levels.\n\nMy biggest concern with AI is that, it will open new possibilities of terror weapons , crimes including cyber crimes, forgery etc .",
+            "authorDisplayName": "Siddharth Jain",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRpcflLdsMccnMgyqTDBem9HsWvf6w1pibOgAHUjQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFBpEAm4r572CKZg0NHXuIg",
+            "authorChannelId": {
+              "value": "UCFBpEAm4r572CKZg0NHXuIg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:41:12Z",
+            "updatedAt": "2023-07-26T13:46:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vDDl6AllpFogivScNvWQ5qSJkSc",
+      "id": "Ugx-3HYDGwmVKiuaQHR4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "9HOPw9yM9pc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lbT38gtuXyRwRDc1ux5wYAqVGpY",
+          "id": "Ugx-3HYDGwmVKiuaQHR4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "9HOPw9yM9pc",
+            "textDisplay": "Глупая женщина, говорящая то, что хочет слышать толпа",
+            "textOriginal": "Глупая женщина, говорящая то, что хочет слышать толпа",
+            "authorDisplayName": "Margaret",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQZMf4zNVjNWZUJoS-5s-s9nlT6KqniXNlfvWjrugyn0mCqx2EuBkDVHUgRtzdj=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrMsClhJgkGq98ouZtn9IWg",
+            "authorChannelId": {
+              "value": "UCrMsClhJgkGq98ouZtn9IWg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:37:04Z",
+            "updatedAt": "2023-07-26T13:37:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wIRjUhddEZcIRsGQASebSqOJXNc",
+      "id": "UgwS-ulUbVJs1b3Kjlh4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "pVeq-0dIqpk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kWyVHnpV3MydXmMq3VkFrdusOPI",
+          "id": "UgwS-ulUbVJs1b3Kjlh4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "pVeq-0dIqpk",
+            "textDisplay": "Fantastic inspiration and unbelievable authentic and logic. Love it!!!",
+            "textOriginal": "Fantastic inspiration and unbelievable authentic and logic. Love it!!!",
+            "authorDisplayName": "Dan Gri",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRK3q2mxUddySg6W_cvyd4siqUfDxZcgEZM6wA6Cw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSL1kcevP6dmN1EyfeSTjWQ",
+            "authorChannelId": {
+              "value": "UCSL1kcevP6dmN1EyfeSTjWQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:24:18Z",
+            "updatedAt": "2023-07-26T13:24:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YuY8dnrtqjec_KATUtf1pFyUAX0",
+      "id": "UgwvSiE-nzTN6tesKn54AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "go_QOzc79Uc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dvvXDQedOLZcEvmBVc12GsF4jSE",
+          "id": "UgwvSiE-nzTN6tesKn54AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "go_QOzc79Uc",
+            "textDisplay": "Sugar, I love sugar. Meanwhile, I also like vegetables.",
+            "textOriginal": "Sugar, I love sugar. Meanwhile, I also like vegetables.",
+            "authorDisplayName": "Sami Sami",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQnc4jH4YkycrH2PTo7iaiV9m3VwQWCIZR-oBK7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpYcpgKsRXIiP4X00LngZzA",
+            "authorChannelId": {
+              "value": "UCpYcpgKsRXIiP4X00LngZzA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:19:00Z",
+            "updatedAt": "2023-07-26T13:19:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BwfTDbI1qjZMwdHqRKxUD7DkcyY",
+      "id": "Ugyp3zoHmz3ds3lw-Zl4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "yQqthbvYE8M",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xNeR0tieQFEwvdafsLjXDELR1hc",
+          "id": "Ugyp3zoHmz3ds3lw-Zl4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "yQqthbvYE8M",
+            "textDisplay": "Suvh a nice pease of selective hisyory and guess about what other thinks. We all now Juval, we are just Gojims, hackable animals, so f. Oft,  wierdo",
+            "textOriginal": "Suvh a nice pease of selective hisyory and guess about what other thinks. We all now Juval, we are just Gojims, hackable animals, so f. Oft,  wierdo",
+            "authorDisplayName": "MrPaskevakas",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRWucjNNHM7qu4JfjzEQm9kPMIkLmAp3SAauOWB=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaL0SR3l6ujGIxQhYndsQUw",
+            "authorChannelId": {
+              "value": "UCaL0SR3l6ujGIxQhYndsQUw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:14:20Z",
+            "updatedAt": "2023-07-26T13:14:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Us5qgDXmpDAPjOSB1f59O3cJKbs",
+      "id": "UgwsnyWquTlI945ckh54AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "fB8UTheTR7s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aiOUNWMBVGrQhUSZsvy3D_cjoPc",
+          "id": "UgwsnyWquTlI945ckh54AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "fB8UTheTR7s",
+            "textDisplay": "This was 10 years ago I wonder where they are now crude",
+            "textOriginal": "This was 10 years ago I wonder where they are now crude",
+            "authorDisplayName": "Radionut R",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTVLiEdjRkJQ3aJ6dvg6y74Ul_Omrxn1LxQ6Fh_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1aYmXmy3PnYZOwa-m6JsRA",
+            "authorChannelId": {
+              "value": "UC1aYmXmy3PnYZOwa-m6JsRA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:08:21Z",
+            "updatedAt": "2023-07-26T13:08:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "E1lJMAYw_gLyGYt1VDra3ng1f6s",
+      "id": "UgzYBojsExv_ZKPYhy54AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "go_QOzc79Uc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oc3G4SsfbSF9nhZvKEzHMNCPFlk",
+          "id": "UgzYBojsExv_ZKPYhy54AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "go_QOzc79Uc",
+            "textDisplay": "Why is he keep moving on the stage...",
+            "textOriginal": "Why is he keep moving on the stage...",
+            "authorDisplayName": "Sami Sami",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQnc4jH4YkycrH2PTo7iaiV9m3VwQWCIZR-oBK7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpYcpgKsRXIiP4X00LngZzA",
+            "authorChannelId": {
+              "value": "UCpYcpgKsRXIiP4X00LngZzA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:07:46Z",
+            "updatedAt": "2023-07-26T13:07:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eBjWNtfqqznoxTFBJYRNNTkMZ7M",
+      "id": "UgyX3XUoGcDNeDsmQJB4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "Tt0arZN6EBM",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XPNuampX9hBvz8DtroBc6jqwllE",
+          "id": "UgyX3XUoGcDNeDsmQJB4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "Tt0arZN6EBM",
+            "textDisplay": "Actually, I underwent unexpected change you cited. I&#39;ve had no idea what to do and  how to do.  Today, as usual, I watched Ted. For me, this video is the one that will change my life in a different way. I recieved invaluable things. I WILL keep in mind these lessons that I learned thanks to this video, changes change what I&#39;m capable of, what I value and how I define myself. Thank you.",
+            "textOriginal": "Actually, I underwent unexpected change you cited. I've had no idea what to do and  how to do.  Today, as usual, I watched Ted. For me, this video is the one that will change my life in a different way. I recieved invaluable things. I WILL keep in mind these lessons that I learned thanks to this video, changes change what I'm capable of, what I value and how I define myself. Thank you.",
+            "authorDisplayName": "장은서",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQJGzR-XfRlGEVumjYY4D9OouY30TEzG3_0G7j3JQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwRc07rKqToBg4Nq-jTM-7g",
+            "authorChannelId": {
+              "value": "UCwRc07rKqToBg4Nq-jTM-7g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-07-26T13:07:23Z",
+            "updatedAt": "2023-07-26T13:07:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "bq1RwSUNSYlgGQOcVm9zDbcmyq8",
+            "id": "UgyX3XUoGcDNeDsmQJB4AaABAg.9scr3f180ZS9scvZT_fM8L",
+            "snippet": {
+              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+              "videoId": "Tt0arZN6EBM",
+              "textDisplay": "You are so welcome!",
+              "textOriginal": "You are so welcome!",
+              "parentId": "UgyX3XUoGcDNeDsmQJB4AaABAg",
+              "authorDisplayName": "Maya Shankar",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQom--lLcpSJO5IEcHHIubvNVB1H63eMZJ7H55xS7M=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC9JL6WMO9Vyzu51S2jm9iJg",
+              "authorChannelId": {
+                "value": "UC9JL6WMO9Vyzu51S2jm9iJg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-07-26T13:46:40Z",
+              "updatedAt": "2023-07-26T13:46:40Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "senZBtIMx6NxS7dDsLdKtvlgwI4",
+      "id": "UgzP7J4st8cYZnJ6TkF4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "7vqnazqmceQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "L9IcmoBgmFn6nMs5WJy3p6oI47Q",
+          "id": "UgzP7J4st8cYZnJ6TkF4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "7vqnazqmceQ",
+            "textDisplay": "She was spitting. I truly loved this.",
+            "textOriginal": "She was spitting. I truly loved this.",
+            "authorDisplayName": "Shauntia Garner",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSrhE8hU9uIOX4LAhvqxWuUAAzqNTVEHKypyWMd0g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5LaXEU4Sso_R0swpOVAp5Q",
+            "authorChannelId": {
+              "value": "UC5LaXEU4Sso_R0swpOVAp5Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T13:02:07Z",
+            "updatedAt": "2023-07-26T13:02:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pgf7atJpnSRiFEgsXznhmE-vzEI",
+      "id": "UgwMuu51kBCp2iOxc0d4AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "oYp5XuGYqqY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fhPkXbPbBhC_U1qLXl3CddmCHYM",
+          "id": "UgwMuu51kBCp2iOxc0d4AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "oYp5XuGYqqY",
+            "textDisplay": "This guy has the voice of a 90s computer generated text to speech program",
+            "textOriginal": "This guy has the voice of a 90s computer generated text to speech program",
+            "authorDisplayName": "Dayne Bartholomew",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSesXnyPIvez7WEmy9Ash7jjPXwBkDqgRk7eapEkk2HKrZxfzqjTXjfnB76rnk_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCo1bDvRoJFehTbnujPC83HQ",
+            "authorChannelId": {
+              "value": "UCo1bDvRoJFehTbnujPC83HQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T12:45:30Z",
+            "updatedAt": "2023-07-26T12:45:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XTBKNF3y4_XE98sudepyKjETSbc",
+      "id": "UgwbSqKs0Ni1xpDaZ-54AaABAg",
+      "snippet": {
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "videoId": "ieSV8-isy3M",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5CV_ncWx8JTuE1fCpspuWy1qHe0",
+          "id": "UgwbSqKs0Ni1xpDaZ-54AaABAg",
+          "snippet": {
+            "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+            "videoId": "ieSV8-isy3M",
+            "textDisplay": "hi",
+            "textOriginal": "hi",
+            "authorDisplayName": "Luis Rosado-Bermudez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRT6x4fDejdRFGitjm05UgrDrZYJhD_ePB9yIWukbPDdISRvZnN1lTS7AsVvbH5=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLYOQdvEm51nvdmDyCj59Wg",
+            "authorChannelId": {
+              "value": "UCLYOQdvEm51nvdmDyCj59Wg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-26T12:31:24Z",
+            "updatedAt": "2023-07-26T12:31:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
