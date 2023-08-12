@@ -13,8 +13,7 @@ public class VideoService
     private ulong DislikeSum { get; set; }
     private ulong ViewsSum { get; set; }
     private int VideoProdFrequencySum { get; set; }
-
-    public HashSet<string> Tags { get; set; } = new();
+    private HashSet<string> Tags { get; set; } = new();
 
 
     public VideoService(YouTubeService service, string apiKey)
